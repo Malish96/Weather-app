@@ -1,0 +1,32 @@
+.wrapper-home-page{
+
+
+}
+.col-two{
+    border: 1px solid #343434;
+    border-radius: 15px;
+    padding: 0px;
+}
+.card-home-one{
+    border: 1px solid #343434;
+    border-radius: 15px;
+    padding: 0px;
+    text-align: center;
+    max-width: 350px;
+    max-height: 600px;
+    margin-top: 5%;
+    margin-left: 5%;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+}
+.col-two{
+    margin-right: 3%;
+    text-align: center;
+    max-width: 400px;
+
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 25px;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+}
